@@ -1,6 +1,7 @@
 ![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)
 
 # BlackHole
+## Created By `Sangwan5688`!, Recoded By `thealidev`!
 
 An Open-Source Music Player App for all your needs!
 
@@ -12,23 +13,7 @@ An Open-Source Music Player App for all your needs!
 
 [![GitHub stars](https://img.shields.io/github/stars/Sangwan5688/BlackHole.svg?style=social&label=Star)](https://github.com//Sangwan5688/BlackHole) ![GitHub forks](https://img.shields.io/github/forks/Sangwan5688/BlackHole.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/Sangwan5688.svg?style=social&label=Follow)
 
-## Download
-
-[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
-     alt="Get it on IzzyDroid"
-     height="100">](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="100">](https://f-droid.org/packages/com.shadow.blackhole/)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
-     alt="Download from GitHub"
-     height="60">](https://github.com/Sangwan5688/BlackHole/releases)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"
-     alt="Join Telegram Channel"
-     height="60">](https://t.me/blackhole_official)
+## Download (Section Currently Unaviable)
 
 ## Translations
 
@@ -86,7 +71,7 @@ Check it yourself :)
 ## License
 
 ```
-Copyright © 2021 Ankit Sangwan
+Copyright © 2022 Ankit Sangwan And The Ali Dev
 
 BlackHole is a free software licensed under GPL v3.0
 It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
@@ -125,25 +110,13 @@ git clone https://github.com/Sangwan5688/BlackHole.git
 
 ```
 flutter pub get
-flutter run
+flutter run android
 ```
 
 ## Contribute
 
-Contributions are welcome. Please read our [contributing guidelines](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) before contributing.
+Contributions are welcome. Please read our [contributing guidelines](/CONTRIBUTING.md) before contributing.
 
 ## Facing any Issue?
 
-Have a look at some [common Issues](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
-
-## Want to test Beta Versions? Need help??
-
-You can join our [Telegram Channel](https://t.me/blackhole_official) or [Telegram Group](https://t.me/joinchat/fHDC1AWnOhw0ZmI9), if you have any query, or need help with something as well as to get beta updates of the project.
-
-## Liked my work?
-
-<a href="https://www.buymeacoffee.com/ankitsangwan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-## What's New
-
-To read full changelog visit the [wiki page](https://github.com/Sangwan5688/BlackHole/wiki/Changelog)
+Have a look at some [common Issues]() that you might face. If your problem is not there, feel free to open an Issue :)
