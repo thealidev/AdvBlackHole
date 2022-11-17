@@ -103,7 +103,7 @@ See the [GNU General Public License](https://github.com/Sangwan5688/BlackHole/bl
 2. Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/Sangwan5688/BlackHole.git
+git clone https://github.com/thealidev/AdvBlackHole.git
 ```
 
 3. Run the app with Android Studio or VS Code. Or the command line:
